@@ -1,2 +1,2 @@
 # DiaryEntry
-A simple webpage for DiaryEntry. 
+A simple webpage for DiaryEntry.
